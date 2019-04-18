@@ -1,6 +1,42 @@
 # UI_review
 Notes and snippets for Lambda UI review
 
+UI I
+Describe and use semantic HTML tags to markup content
+Demonstrate the use of CSS selectors to style markup
+Demonstrate CSS specificity and inheritance to create and update styles
+UI II
+Identify and use all properties in the box model
+Use CSS display properties to build user interface
+Implement a CSS reset and understand why it’s important for cross browser development
+UI III
+Describe and understand that flexbox is a module
+Demonstrate understanding of flex container properties in flex box
+Demonstrate understanding of flex item properties in flexbox
+GIT for WebDev
+Explain why we use the command line interface (CLI), and demonstrate use of basic CLI commands.
+Sufficiently explain what version control and Git are, and why as software engineers we use them.
+Demonstrate an ability to fork and clone a repo.
+Understand branching, and be able to create a branch locally.
+Explain and properly utilize the git commands: `status`, `add`, `commit`, and `push`
+Submit a Pull Request.
+Demonstrate their ability to use the Lambda School Git Workflow to submit an assignment to your Project Manager
+RESPONSIVE DESIGN I
+Describe the differences in fixed, fluid, adaptive, and responsive layouts.
+Demonstrate knowledge of media queries by correctly implementing them in a project.
+Build responsive layouts
+RESPONSIVE DESIGN II
+Describe why responsive design impacts accessibility
+Describe and use responsive units to create a fully responsive website
+Build a percent based layout
+PREPROCECESSING I
+Install Node, Yarn, LESS, and less-watch-compiler
+Implement variables, mixins, nesting, nested at-rules in LESS.
+PREPROCCESSING II
+Create parametric mixins, use functions, and incorporate escaping
+Create a master LESS file and use importing to create a project.
+
+
 Javascript I 
 
 *Use function declarations, expressions, and arrow functions and describe their differences
