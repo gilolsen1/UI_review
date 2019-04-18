@@ -3,10 +3,10 @@ Notes and snippets for Lambda UI review
 
 Javascript I 
 
-Use function declarations, expressions, and arrow functions and describe their differences
-Use let, const, var and demonstrate their differences.
-Create and use object literals as well as describe object properties and methods
-Create and use arrays as well as array properties and array methods
+*Use function declarations, expressions, and arrow functions and describe their differences
+*Use let, const, var and demonstrate their differences.
+*Create and use object literals as well as describe object properties and methods
+*Create and use arrays as well as array properties and array methods
 
 
 Javascript II - CLOSURE + Array Methods
