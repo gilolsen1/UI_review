@@ -56,3 +56,32 @@ Create custom data attributes with HTML and utilize them in CSS and JavaScript
 Utilize multiple Classes to build a component
 
 //
+
+DOH' DON'T FORGET!!!
+
+-run lesswatch compiler
+-imports
+-box-sizing border box
+-css resets
+-width 100%
+-viewport metatags
+
+
+
+SOFT SKILLS/ TIPS
+
+VS Code hacks / extensions
+-new page template
+-oukra
+-emmet abbreviations
+-prettier
+-view live server
+-pixel perfect
+-window resizer
+
+CHROME INSPECTOR
+-debugger
+-
+
+
+
